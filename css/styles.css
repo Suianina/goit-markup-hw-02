@@ -108,6 +108,16 @@ button {
     box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
     background: #404bbf;
 }
+
+
+
+box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
+background: var(--iris);
+
+box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
+background: var(--ocean);
+
+
 /** =================================== */
 
 
@@ -140,6 +150,7 @@ button {
 
  .team {
     box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.25);
+    background: #f4f4fd;
  }
 
  .team-title {
