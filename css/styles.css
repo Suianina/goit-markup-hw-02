@@ -123,13 +123,13 @@ background: var(--ocean);
 
  /** ==============FEATURES============ */
  
- .Features {}
+ .features {}
 
- .Features-list {}
+ .features-list {}
 
- .Features-item {}
+ .features-item {}
 
- .Features-subtitle {
+ .features-subtitle {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
@@ -161,7 +161,7 @@ background: var(--ocean);
     text-transform: capitalize;
     text-align: center;
     color: #2e2f42;}
-
+ 
  .team-list {}
 
  .team-item {}
