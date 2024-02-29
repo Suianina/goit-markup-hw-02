@@ -29,7 +29,8 @@ button {
     overflow: hidden;
 }
 
-/* ===============HEADER=============== */
+
+/** ===============HEADER=============== */
 
 .header-logo {
     font-weight: 700;
@@ -62,25 +63,24 @@ button {
     font-style: normal;
 }
 
-.Contacts-list {}
+.contacts-list {}
 
-.Contacts-item {}
+.contacts-item {}
 
-.Contacts-link {
+.contacts-link {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;
 }
-.Contacts-link:hover,
-.Contacts-link:focus {
+.contacts-link:hover,
+.contacts-link:focus {
     color:#404BBF;
 }
+/** ================================== */
 
-/* ================================== */
 
-
-/* ===============HERO=============== */
+/** ===============HERO=============== */
 
 .hero {
     background: #2e2f42;
@@ -108,19 +108,10 @@ button {
     box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
     background: #404bbf;
 }
+/** =================================== */
 
 
-
-    /*!==================================
-    .hero-buy-btn:hover,
-    .hero-buy-btn:focus {
-            color: #404BBF;
-}
-
-/* =================================== */
-
-
- /* ==============FEATURES============ */
+ /** ==============FEATURES============ */
  
  .Features {}
 
@@ -142,12 +133,10 @@ button {
         letter-spacing: 0.02em;
         color: #434455;
  }
+ /** =================================== */
 
- /* =================================== */
 
-
- /* ==============TEAM============ */
-
+ /** ==============TEAM============ */
 
  .team {
     box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.25);
@@ -183,12 +172,10 @@ button {
     text-align: center;
     color: #434455;
  }
+/** =================================== */
 
 
-/* =================================== */
-
-
-/* ==============PORTFOLIO============ */
+/** ==============PORTFOLIO============ */
 
  .portfolio-title {
     font-weight: 700;
@@ -217,10 +204,10 @@ button {
     letter-spacing: 0.02em;
     color: #434455;
  }
- /* =================================== */
+ /** =================================== */
 
 
- /* ==============FOOTER============ */
+ /** ==============FOOTER============ */
 
 .footer {
     background: #2e2f42;
@@ -250,11 +237,10 @@ button {
     color: #f4f4fd;
 }
 
-
 .footer-text {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #f4f4fd;
 }
-/* =================================== */
+/** =================================== */
