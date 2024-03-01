@@ -16,19 +16,6 @@ button {
     cursor: pointer
 }
 
-.visually-hidden {
-    position: absolute;
-    width: 1px;
-    height: 1px;
-    margin: -1px;
-    border: 0;
-    padding: 0;
-    white-space: nowrap;
-    clip-path: inset(100%);
-    clip: rect(0 0 0 0);
-    overflow: hidden;
-}
-
 
 /** ===============HEADER=============== */
 
@@ -101,9 +88,12 @@ button {
     line-height: 1.5;
     letter-spacing: 0.04em;
     color: #fff;
-
-    box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
     background: #4d5ae5;
+}
+
+.hero-buy-btn:hover,
+.hero-buy-btn:focus {
+    background: #404bbf;
 }
 
 /** =================================== */
@@ -153,7 +143,9 @@ button {
     background-color: #ffffff;
  }
 
- .team-item {}
+ .team-item {
+    background-color: #FFFFFF;
+ }
 
  .team-image {}
 
